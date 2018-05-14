@@ -1,0 +1,6 @@
+framework module Pods_GoogleMapLocationSearch {
+  umbrella header "Pods-GoogleMapLocationSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
